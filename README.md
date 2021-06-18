@@ -4,7 +4,7 @@ Recriando a página incial do Instagram
 
 Tecnologias utilizaadas :
 
-HTML
+HTML,
 CSS
 
 
