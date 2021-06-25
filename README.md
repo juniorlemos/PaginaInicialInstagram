@@ -2,7 +2,7 @@
 Projeto prático do Bootcamp da Digital Innovation One 
 Recriando a página incial do Instagram 
 
-Tecnologias utilizaadas :
+Tecnologias utilizadas :
 
 HTML,
 CSS
